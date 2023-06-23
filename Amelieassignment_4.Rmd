@@ -36,7 +36,7 @@ This interpretation will not be graded, but a Github shows the contributors to a
 usethis::use_git_config(user.name = "AmelievanDinther",
                user.email = "A.e.vandinther@student.uu.nl")
 
-[Fill in here]
+[mselimunal]
 
 ### Part 2: Analyzing various linear models
 
