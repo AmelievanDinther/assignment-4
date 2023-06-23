@@ -65,7 +65,7 @@ treat|>
   datasummary(formula = growth + rgdp60 ~ treat * (mean + median + sd + min + max))
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+**If there is no revolutions, the growth rate is higher as the mean of growth on the table is higher on the 0 revolutions side. Moreover, the real gdp in 1960 is higher in countries where no revolutions happened. **: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
